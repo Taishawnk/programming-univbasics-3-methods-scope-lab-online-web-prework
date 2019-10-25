@@ -10,6 +10,6 @@ def toadstool
 end
 
 def link 
-  warning= "'It's Dangerous To Go Alone! Take This.'"
-  puts warning
+  status = "'It's Dangerous To Go Alone! Take This.'"
+  puts link
 end
