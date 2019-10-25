@@ -10,5 +10,6 @@ def toadstool
 end
 
 def link 
-  puts
+  warning=
+  puts warning
 end
